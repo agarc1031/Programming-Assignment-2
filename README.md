@@ -1,4 +1,4 @@
-# Programming-Assignment-2
+## Programming Assignment 2: Multithreaded Sorting App
 - Name: Alexis D. Garcia
 - Panther ID: 6247711
 - Course Code: COP 4610

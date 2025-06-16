@@ -3,7 +3,7 @@ This program was made and tested on the FIU Ocelot server running CentOS 8. Make
    - Host Name: ocelot.aul.fiu.edu
    - Connection Type: SSH
 2. Compile the shell or use Makefile
-   - gcc -o main main.c
+   - gcc -o main main.c -pthread
    - make
 3. Run the program
    ./main

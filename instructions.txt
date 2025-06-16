@@ -1,0 +1,10 @@
+This program was made and tested on the FIU Ocelot server running CentOS 8. Make sure you are logged in via PuTTY or SSH.
+1. Login to Ocelot
+   - Host Name: ocelot.aul.fiu.edu
+   - Connection Type: SSH
+2. Compile the shell or use Makefile
+   - gcc -o main main.c
+   - make
+3. Run the program
+   ./main
+You will see the sorted array printed as output.
